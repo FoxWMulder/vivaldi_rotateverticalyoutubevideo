@@ -12,4 +12,4 @@ Installation
 
 5. Enjoy! :)
 
-Tested on Vivaldi 6.0.2979.11
+Tested on Vivaldi 7.9.3963.3
