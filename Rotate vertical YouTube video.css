@@ -1,0 +1,23 @@
+/*режим кинотеатра, на чёрном поле, на всю ширину, не полноэкранный режим*/
+#container .ytp-large-width-mode .html5-video-container {
+    transform: rotate(90deg);
+    zoom: 0.562;
+    top: 112%;
+    left: 15%;
+}
+
+/*на белом фоне, не режим кинотеатра, не полноэкранный режим*/
+#player .ytp-large-width-mode .html5-video-container {
+    transform: rotate(90deg);
+    zoom: 0.559;
+    top: 89%;
+    left: 14%;
+}
+
+/*полноэкрнанный режим*/
+#container .ytp-fullscreen .html5-video-container {
+    /*transform: rotate(90deg);*/
+    /*zoom: 0.556;*/
+    top: 89%;
+    /*left: 10%;*/
+}
